@@ -28,7 +28,7 @@ A website that will help students make career decisions based on their careeer i
  - Users should be able to see external links to  useful resources that will help them in making their decision. 
 
     
-  
+
 ## Live link
 [Career Guidance](https://samwel-chege.github.io/Career-Guidance/)
 ​
